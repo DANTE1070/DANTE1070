@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hola, soy Daniel  Villanueva </h1>
+👋 Hola, soy Daniel  Villanueva </h1>
 
-<h3 align="center">
+
 💻 Estudiante virtual de Análisis y Desarrollo de Software
 </h3>
 
-<p align="center">
+
  Tengo 29 años y vivo en la ciudad de facatativa me gusta la tecnologia </p>
 
 ---

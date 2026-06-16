@@ -29,9 +29,8 @@
 Proyecto orientado a mejorar la administración de la fundación felina con módulos como:
 
 ✅ Registro de gatos rescatados  
-✅ Historia clínica felina  
-✅ Gestión de adopciones  
-✅ Control de vacunas y tratamientos  
+✅ Historia veterinario  
+✅ Gestión de adopciones   
 ✅ Administración de información
 
 ---

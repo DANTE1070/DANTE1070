@@ -11,9 +11,9 @@ Apasionado por la tecnología, el desarrollo de software y la creación de soluc
 ---
 
 ## 🚀 Sobre mí
-
-🎓 Estudiante de **Análisis y Desarrollo de Software**  
-🐱 Actualmente desarrollando un **Sistema de Gestión para Fundación de Gatos**  
+🧑‍💻 Trabajo actualmente en **Corona cerámica** como clasificador y empacador de productos en revision final.
+🎓 Estudiante virtual de **Análisis y Desarrollo de Software SENA**
+🐱 Actualmente busco desarrollando un **Sistema de Gestión para una Fundación de Gatos** llamada **reino de los gatos**
 📚 Interesado en **desarrollo web, UML, bases de datos y gestión de proyectos de software**  
 💡 En constante aprendizaje para fortalecer mis habilidades tecnológicas.
 

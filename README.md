@@ -1,37 +1,32 @@
-<h1 align="center">👋 Hola, soy Daniel Fernando Villanueva Gordillo</h1>
+<h1 align="center">👋 Hola, soy Daniel  Villanueva </h1>
 
 <h3 align="center">
-💻 Estudiante de Análisis y Desarrollo de Software
+💻 Estudiante virtual de Análisis y Desarrollo de Software
 </h3>
 
 <p align="center">
-Apasionado por la tecnología, el desarrollo de software y la creación de soluciones digitales.
-</p>
+ Tengo 29 años y vivo en la ciudad de facatativa me gusta la tecnologia </p>
 
 ---
 
 ## 🚀 Sobre mí
-🧑‍💻 Trabajo actualmente en **Corona cerámica** como clasificador y empacador de productos en revision final.
-🎓 Estudiante virtual de **Análisis y Desarrollo de Software SENA**
-🐱 Actualmente busco desarrollando un **Sistema de Gestión para una Fundación de Gatos** llamada **reino de los gatos**
-📚 Interesado en **desarrollo web, UML, bases de datos y gestión de proyectos de software**  
+🧑‍💻 Trabajo actualmente en **Corona cerámica** como clasificador y empacador de productos en revision final
+
+🎓 Soy estudiante virtual de **Análisis y Desarrollo de Software SENA**
+
+🐱 Actualmente busco desarrollar un **Sistema de Gestión para una Fundación de Gatos** llamada **Reino de los gatos**
+
+📚 Interesado en en adquirir nuevos conocimiento en este mundo llamado programacion
+
 💡 En constante aprendizaje para fortalecer mis habilidades tecnológicas.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 📂 Proyecto a Desarrollar
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
-</p>
+### 🐱 King of the cats
 
----
-
-## 📂 Proyecto Destacado
-
-### 🐱 Sistema de Gestión para Fundación de Gatos
-
-Proyecto orientado a mejorar la administración de una fundación felina mediante módulos como:
+Proyecto orientado a mejorar la administración de la fundación felina con módulos como:
 
 ✅ Registro de gatos rescatados  
 ✅ Historia clínica felina  
@@ -43,17 +38,15 @@ Proyecto orientado a mejorar la administración de una fundación felina mediant
 
 ## 📈 Actualmente aprendiendo
 
-- Ingeniería de Software  
-- Diagramas UML  
-- Git y GitHub  
-- Bases de Datos SQL  
+- Desarrollo de Software   
+- Git y GitHub   
 - Desarrollo Web
 
 ---
 
 ## 🎯 Objetivo Profesional
 
-Mi objetivo es crecer como desarrollador de software y participar en proyectos tecnológicos innovadores, aportando soluciones útiles y funcionales.
+Mi objetivo es poder desarrollar este proyecto tan bonito y dar un granito de arena a esta fundacion que se encarga de dar nuevas oportunidades a estos hermosos animles, Tambien crecer como desarrollador de software y participar en proyectos tecnológicos innovadores, útiles y funcionales.
 
 ---
 

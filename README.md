@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Daniel Fernando Villanueva Gordillo</h1>
 
-<!--
-**DANTE1070/DANTE1070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💻 Estudiante de Análisis y Desarrollo de Software
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Apasionado por la tecnología, el desarrollo de software y la creación de soluciones digitales.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🚀 Sobre mí
+
+🎓 Estudiante de **Análisis y Desarrollo de Software**  
+🐱 Actualmente desarrollando un **Sistema de Gestión para Fundación de Gatos**  
+📚 Interesado en **desarrollo web, UML, bases de datos y gestión de proyectos de software**  
+💡 En constante aprendizaje para fortalecer mis habilidades tecnológicas.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📂 Proyecto Destacado
+
+### 🐱 Sistema de Gestión para Fundación de Gatos
+
+Proyecto orientado a mejorar la administración de una fundación felina mediante módulos como:
+
+✅ Registro de gatos rescatados  
+✅ Historia clínica felina  
+✅ Gestión de adopciones  
+✅ Control de vacunas y tratamientos  
+✅ Administración de información
+
+---
+
+## 📈 Actualmente aprendiendo
+
+- Ingeniería de Software  
+- Diagramas UML  
+- Git y GitHub  
+- Bases de Datos SQL  
+- Desarrollo Web
+
+---
+
+## 🎯 Objetivo Profesional
+
+Mi objetivo es crecer como desarrollador de software y participar en proyectos tecnológicos innovadores, aportando soluciones útiles y funcionales.
+
+---
+
+## 📫 Contacto
+
+🐙 GitHub: https://github.com/DANTE1070
+
+---
+
+⭐ *“El software bien construido puede transformar ideas en soluciones reales.”*
 -->
